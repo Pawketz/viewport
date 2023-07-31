@@ -313,7 +313,7 @@ img{
 
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
-
+/* ---------- EXTRA LARGE SCREEN STYLES ---------- */
 @media screen and (min-width:1200px){
     header, footer{
         background-color: var(--orange);
@@ -382,7 +382,5 @@ img{
         padding-top: 2em;
     }
 }
-/* ---------- EXTRA LARGE SCREEN STYLES ---------- */
-/* --------------- BEGIN EXTRA LARGE SCREEN SIZES --------------- */
 
 /* --------------- END EXTRA LARGE SCREEN SIZES --------------- */
